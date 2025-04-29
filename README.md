@@ -35,9 +35,9 @@ about-me-project/
 
 If you would like to connect, feel free to reach out:
 
-- 📧 [Email](mailto:mohammed.zikrullah@informatik.hs-fulda.de)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-zikrullah)
-- 💻 [GitHub](https://github.com/mohammedzikrullah)
+- 📧 [Email](mailto:murad.isayev@informatik.hs-fulda.de)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muradisayev)
+- 💻 [GitHub](https://github.com/murad-isayev)
 
 ---
 
